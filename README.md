@@ -1,7 +1,7 @@
 # download-facebook-messages
 
-way to download messages between you and someone else  
-  
+way to download messages between you and someone else
+
 \-first you need to go [http://m.facebook.com/messages/](http://m.facebook.com/messages/)  
 \-Then click the person you want to see the first message with.
 
@@ -33,4 +33,6 @@ window.clearInterval(myVar)
 
 You can resume the script anytime by typing the first part again.
 
-Now once it loads everything, You can right click anywhere on the page and choose "save as" and then save that file somewhere on your computer. Then use Google Chrome to open it when you want to view it later (won't look right in Internet Explorer). This will save the entire chat, complete with pictures and emoticons. When you want to search for a particular day, press <kbd>Ctrl</kbd>+<kbd>F</kbd> to bring up the find box. Then type in "Mar 2", for example, to bring up the conversation on March 2nd.
+Now once it loads everything, You can right click anywhere on the page and choose "save as" and then save that file somewhere on your computer. Then use Google Chrome to open it when you want to view it later (won't look right in Internet Explorer). This will save the entire chat, complete with pictures and emoticons. When you want to search for a particular day, press <kbd>Ctrl</kbd>+<kbd>F</kbd> to bring up the find box. Then type in "Mar 2", for example, to bring up the conversation on March 2nd.  
+  
+and for destroying messages take a look at here https://github.com/giaplv57/mesExtractor
